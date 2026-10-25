@@ -1,0 +1,1301 @@
+--- PAGE 1 ---
+Alphabet Test
+Arithmetical Reasoning 
+Blood Relation
+Coding-Decoding
+Counting of Figures
+Dice
+Cube
+Direction Sense
+Embedded Figure
+Motion (9th)
+Force and Laws of Motion (9th)
+Gravitation (9th)
+Sound (9th)
+Work, Power and Energy (9th)
+Reflection of Light (10th) 
+Refraction of Light (10th) 
+The Human Eye and
+Colourful World (10th) 
+Tissues in Action
+Improvement in Food Resources 
+Nutrition 
+Respiration 
+Transportation
+Excretion
+Control and Coordination
+Mathematical Operations
+Inserting the Missing Character
+Series (Verbal & Non-Verbal)
+Number, Ranking and Time Sequence Test
+Puzzle Test
+Sitting Arrangement
+Syllogism
+Atoms and Molecules(9th)
+Structure of the Atom(9th)
+Chemical Reactions and Equations(10th)
+Acids, Bases and Salts(10th)
+Metals and non-metals(10th)
+Heron's Formula (9th)
+Statistics (9th)
+Surface area and Volumes (9th)
+Lines and Angles (9th)
+Quadrilaterals (9th)
+Real Numbers (10th)
+Coordinate Geometry (10th)
+Introduction to Trigonometry (10th)
+Pair of Linear Equations in Two Variables (10th)
+Polynomials (10th)
+Triangles (10th) 
+IQ
+PHYSICS
+BIOLOGY
+MATHS
+CHEMISTRY
+Corporate Ofﬁce : ALLEN Career Institute Pvt. Ltd. “SANKALP”, CP-6, Indra Vihar, Kota (Rajasthan)-324005
+Tel.:  +91-8690660111, +91-8951395299  | Mail: info@allen.in | Website: www.allen.ac.in
+Class: 10
+Syllabus & Pattern
+Pattern of Questions
+80 Objective Type Questions - Offline
+100 Objective Type Questions - Online
+MCQs of 4 choices (single correct answer)
+Marking Scheme
++4 for correct answer & -1 for wrong answer
+(Negative Marking)
+Question Distribution – Offline
+Physics: 15, Chemistry: 15, Biology: 15, Maths: 15, IQ: 20
+Question Distribution – Online
+Physics: 19, Chemistry: 18, Biology: 19, Maths: 19, IQ: 25
+Medium : English Only
+Duration: 
+Online: 2 Hours. It is Compulsory to be logged in to the
+portal at least 30 minutes before the test to avoid
+technical issue.
+Offline: 2 Hours. It is Compulsory to take seat in exam
+hall at least 30 minutes before test to fill OMR. 
+Offline & Online Exam Mode Pattern
+
+
+--- PAGE 2 ---
+"TALLENTEX COORDINATION CELL"
+ALLEN CAREER INSTITUTE PVT. LTD.
+‘Sankalp’ CP-6, Indra Vihar, Kota (324005) RAJASTHAN
+PHONE : +91-9606970199 (Offline), +91-9513736499 (Online)
+E-MAIL : contact@tallentex.com | WEBSITE : allen.in/tallentex
+A Specially Designed Initiative at National Level to  Encourage Young Talent by
+SAMPLE TEST PAPER
+FOR OFFLINE EXAM
+CLASS X
+Get Rank, Recognition, Cash Prize
+& Much More
+ALLEN Registered & Corporate Office : "SANKALP" CP-6, Indra Vihar, Kota (Rajasthan) INDIA 324005
+Call : +91-8690660111, +91-8951395299 | Mail : info@allen.in | Website : www.allen.ac.in
+
+
+--- PAGE 3 ---
+Sample Test Paper : CLASS-X 
+1/12 
+ 
+ 
+ 
+SECTION-A : PHYSICS 
+ 
+This section contains 15 Multiple Choice Questions. Each question has four choices (1), (2), (3) and (4) out of 
+which ONLY ONE is correct. 
+1. 
+The distance between three consecutive troughs in a wave produced in a string is 4 cm. If 2.5 wave cycles 
+pass through any point in a second, the wave in the string has velocity 
+(1) 10 cm/s 
+(2) 0.16 cm/s 
+(3) 0.8 cm/s 
+(4) 5 cm/s 
+2. 
+The splitting of white light into different colours on passing through a prism is called 
+(1) reflection 
+ 
+(2) refraction 
+(3) dispersion 
+ 
+(4) deviation 
+3. 
+The velocity of a body moving with a uniform retardation of 5 m/s2 is 100 m/s at an instant. Its velocity after 
+7 second is 
+(1) 135 m/s 
+(2) 100 m/s 
+(3) 65 m/s 
+(4) Zero 
+4. 
+A passenger in an aeroplane 
+(1) shall never see a rainbow 
+(2) may see a primary and a secondary rainbow as concentric circles 
+(3) may see a primary and a secondary as concentric arcs 
+(4) shall never see a secondary rainbow 
+5. 
+A child is stuck on a frictionless horizontal surface and cannot exert any horizontal force by pushing against 
+the surface. How can he get off? 
+(1) By running 
+(2) By rolling 
+(3) By jumping 
+(4) By spitting or coughing 
+6. 
+A man runs towards a mirror at a speed 15 m/s. The speed of the image relative to the man is 
+(1) 15 ms–1 
+(2) 30 ms–1 
+(3) 35 ms–1 
+(4) 20 ms–1 
+7. 
+A plane mirror makes an angle of 30° with horizontal. If a vertical ray strikes the mirror, find the angle 
+between mirror and reflected ray 
+(1) 30° 
+(2) 45° 
+(3) 60° 
+(4) 90° 
+8. 
+Refractive index of glass is 3
+2
+ and refractive index of water is 4
+3
+. If the speed of light in glass is 2.00 ×108 m/s, 
+the speed in water will be 
+ 
+(1) 2.67×108 m/s 
+ 
+(2) 2.25×108 m/s 
+ 
+(3) 1.78×108 m/s 
+ 
+(4) 1.50×108 m/s 
+9. 
+Eddie hits a golf ball from the tee into the cup. At point A, the ball is stationary on the tee. At point B, the 
+ball is at its highest point in the air. At point C, the ball is rolling on the ground. At point D, the ball is 
+stopped in the cup. The diagram below shows the path the ball traveled from the tee to the cup 
+ 
+Choose the correct option 
+At A 
+From A to B 
+From B to C 
+At D 
+(1) Only PE 
+Both KE + PE 
+Both KE + PE 
+Only PE 
+(2) Only KE 
+Both KE + PE 
+Both KE + PE 
+Only PE 
+(3) Only PE 
+Only PE 
+Only KE 
+Only KE 
+(4) Only KE 
+Only PE 
+Only KE 
+Only PE 
+ALLEN
+
+
+--- PAGE 4 ---
+Sample Test Paper : CLASS-X 
+2/12 
+ 
+ 
+10. 
+A ray of light follows the path as shown in figure as it travels though different media. Choose the correct 
+relation regarding refractive indices from the given alternatives. 
+ 
+(1) µ1 > µ2 < µ3 = µ4 > µ5 
+(2) µ1 = µ2 < µ3 = µ4 > µ5 
+(3) µ1 > µ2 < µ3 > µ4 < µ5 
+(4) µ1 < µ2 < µ3 = µ4 > µ5 
+11. 
+An iron sphere of mass 20 kg has same diameter as an aluminium sphere of mass 12 kg. Both spheres are 
+dropped from towers of same height. When they are 10 meter above the ground, they have the same (neglect 
+air resistance) 
+(1) acceleration 
+(2) velocity 
+(3) kinetic energy 
+(4) both (1) and (2) 
+ 
+12. 
+A force of 980 N acts on a body for 0.1 seconds. Calculate the change in momentum of the body. 
+(1) 98 N s 
+(2) 9.8 N s 
+(3) 0.98 N s 
+(4) 980 N s 
+13. 
+The weight of a rock on the moon is 200.6 N. What is its mass on the earth ? (Take g of earth = 9.8 ms–2, g of 
+moon=1.7 ms–2) 
+(1) 20 kg 
+(2) 118 kg 
+(3) 200 kg 
+(4) 1180 kg 
+14. 
+Two metal spheres of equal radius r and equal densities are touching each other. The force of attraction F 
+between them is 
+(1) 
+4
+F
+r
+∝
+ 
+(2) 
+6
+F
+r
+∝
+ 
+(3) 
+2
+F
+r
+∝
+ 
+(4) 
+2
+1
+F
+r
+∝
+ 
+15. 
+Two men with their weights in the ratio 5 : 3 run up a staircase in times in the ratio 11 : 9. Then the ratio of 
+power of first to that of second is- 
+(1) 15
+11
+ 
+(2) 11
+15
+ 
+(3) 11
+9
+ 
+(4) 9
+11
+ 
+ 
+SECTION-B : CHEMISTRY 
+ 
+This section contains 15 Multiple Choice Questions. Each question has four choices (1), (2), (3) and (4) out of 
+which ONLY ONE is correct  
+ 
+16. 
+Match the following :- 
+Column-I 
+Column-II 
+A 
+Sodium 
+p 
+Yellow in colour 
+B 
+Helium 
+q 
+Diatomic 
+C 
+Sulphur 
+r 
+Soft metal 
+D 
+Hydrogen gas 
+s 
+Noble gas 
+ 
+(1) A-p, B-q, C-r, D-s 
+ 
+(2) A-q, B-r, C-p, D-s 
+ 
+(3) A-r, B-s, C-p, D-q 
+ 
+(4) A-q, B-p, C-r, D-s 
+ALLEN
+
+
+--- PAGE 5 ---
+Sample Test Paper : CLASS-X 
+3/12 
+ 
+ 
+ 
+17. 
+The given table shows the number of electrons, neutrons and protons in some atoms or ions elements 
+Atom or ion 
+Electron 
+Neutron 
+Proton 
+A 
+10 
+12 
+12 
+B 
+17 
+20 
+17 
+C 
+18 
+18 
+17 
+D 
+5 
+6 
+5 
+E 
+12 
+12 
+12 
+Which of the following statements is incorrect? 
+(1) A is a cation while C is anion. 
+(2) B and C are atoms of different elements. 
+(3) E has a nucleon number 24 and it is a metal. 
+(4) None of these 
+18. 
+Some elements and ions with their valencies are enlisted in the given table: 
+Name (Valency) 
+Name (Valency) 
+i 
+Oxygen (2) 
+vi 
+Sodium (2) 
+ii 
+Iodine (1) 
+vii 
+Helium (2) 
+iii Argon (0) 
+viii Chlorine (1) 
+iv Magnesium (3) 
+ix 
+Potassium (1) 
+v 
+Carbon (4) 
+x 
+Aluminium (3) 
+Select the incorrect match. 
+(1) (iv), (v), (vii) and (ix)  
+(2) (iv), (vi) and (vii) 
+(3) (i), (viii), (ix) and (x)  
+(4) (ii), (iii), (v) and (ix) 
+19. 
+Read the given process carefully. What are A, B and C respectively? 
+ 
+(1) Gypsum, Lime, Plaster of paris 
+(2) Calcium sulphate, Gypsum, Plaster of paris 
+(3) Lime, Plaster of paris, Gypsum 
+(4) None of these 
+20. 
+Carbon dioxide, made up of elements carbon and oxygen, contains 27.2% by mass of carbon. What mass of 
+oxygen will combine with 10g of carbon?             
+ 
+(1)  26.7g 
+(2)  3.74g 
+(3) 7.28g 
+(4) 4.28g 
+21. 
+Aluminium and copper are extracted from their oxide and sulphide ores respectively. Which of the following 
+is correct? 
+(I) Copper is extracted by the auto reduction of copper oxide by copper sulphide. 
+(II) Aluminium cannot be obtained by chemical reduction due to its strong affinity for oxygen. 
+(III) Smelting process (reduction with carbon) is also used for Aluminium. 
+(IV) Sulphide ores of copper are difficult to be reduced than the oxide ores. 
+(1) I, II and IV 
+(2) I and III 
+(3) II and III 
+(4) II and IV 
+ALLEN
+
+
+--- PAGE 6 ---
+Sample Test Paper : CLASS-X 
+4/12 
+ 
+ 
+22. 
+A car battery was accidentally knocked over and the sulfuric acid was spilt onto a marble floor. It was 
+observed that the acid began to fizz, indicating a gas was produced. Which gas is most likely to be produced? 
+(1) Carbon dioxide    (2) Hydrogen 
+(3) Oxygen 
+(4) Sulphur dioxide 
+23. 
+Among the following statements, the incorrect one is 
+(1) Calamine and siderite are carbonates. 
+(2) Argentite and cuprite are oxides. 
+(3) Zinc blende and pyrites are sulphides. 
+(4) Malachite and Azurite are ores of copper. 
+24. 
+The diagram below shows a model of an atom that was developed following Rutherford’s experiment 
+ 
+Which component of the atom is not represented in Rutherford’s atomic model? 
+(1) The neutrons 
+(2) The nucleus 
+(3) The electrons 
+(4) The protons 
+25. 
+Which of the following pairs are isotopes? 
+(1) Oxygen and ozone 
+ 
+(2) Ice and steam 
+(3) Nitric oxide and nitrogen dioxide 
+(4) Hydrogen and deuterium 
+26. 
+Gold and platinum group metals are found in nature in metallic form because 
+(1) they are solids at room temperature. 
+(2) they are highly reactive. 
+(3) they are soluble in water. 
+(4) they are relatively inert. 
+27. 
+Which metal can prevent the corrosion of iron ? 
+(1) Zn 
+(2) Cu 
+(3) Pb 
+(4) Ag 
+28. 
+A silver article turns black when kept open in air for few days. The article when rubbed with toothpaste 
+again starts shining because 
+(1) hydrogen peroxide present in the toothpaste reacts to give silver sulphate. 
+(2) hydrated silica present in the toothpaste reacts to give silver oxide. 
+(3) aluminium hydroxide present in the toothpaste reacts to give silver hydroxide. 
+(4) calcium carbonate present in the toothpaste reacts to give silver carbonate. 
+29. 
+Consider the following statement : 
+(i) Pb(OH)Cl is an acid salt. 
+(ii) A solution contain pH = 0 is neutral in nature. 
+(iii) If the concentration of (OH–) is 10–2 then the pH of solution is 12. 
+(iv) Blood is slightly basic in nature. 
+(1) All statement are correct 
+(2) Only (iii) and (iv) is correct 
+(3) Only (i), (ii) and (iv) is correct 
+(4) Only (iii) is correct 
+ALLEN
+
+
+--- PAGE 7 ---
+Sample Test Paper : CLASS-X 
+5/12 
+ 
+ 
+ 
+30. 
+Match the following – 
+Column A 
+ 
+Column B 
+Types of chemical reaction 
+Chemical equations 
+(a) Combination reaction  
+(i) 
+   
+(b) Thermal decomposition reaction 
+(ii) 
+    
+(c) Displacement reaction 
+(iii) 
+  
+(d) Electric decomposition reaction 
+(iv) 
+  
+(1) a(ii), b(i), c(iv), d(iii)  
+(2) a(i), b(ii), c(iii), d(iv) 
+(3) a(iii), b(i), c(iv), d(ii)  
+(4) a(iii), b(i), c(ii), d(iv) 
+ 
+SECTION-C : BIOLOGY 
+ 
+This section contains 15 multiple choice questions. Each question has four choices (1), (2), (3) and (4) out of 
+Which ONLY ONE is correct. 
+ 
+31. 
+_______________ is responsible for the recovery of water and sodium chloride from the urine 
+(1) Bowman’s capsule   (2) Ureter 
+(3) Loop of Henle 
+(4) Urinary bladder 
+32. 
+Which of the following parts labelled in the given figure contains oxygenated blood? 
+ 
+(1) A , B and C only 
+ 
+(2) A, B, C and F only 
+(3) D, C and E only 
+ 
+(4) B , D and E only 
+33. 
+In which of the following maximum reabsorption of glomerular filtrate occurs ? 
+(1) Proximal convoluted tubule 
+(2) Distal convoluted tubule 
+(3) Henle’s loop 
+ 
+(4) Collecting duct 
+34. 
+In which of the following plants, there will be no transpiration? 
+(1) Completely submerged aquatic plants 
+(2) Plants growing in deserts 
+(3) Plants in tropical rainforest 
+(4) Plants growing in hilly regions 
+35. 
+Urea is mainly formed in 
+(1) Liver 
+(2) Kidney 
+(3) Lung 
+(4) Heart 
+36. 
+The translocation in plants includes the transport of _____________ into the phloem tissue using energy. 
+(1) Glucose 
+(2) Starch 
+(3) Sucrose 
+(4) Fructose 
+37. 
+Choose the correct pair of digestive enzyme found in the pancreatic juice which is responsible for digestion 
+of fats and carbohydrates respectively from the given options.  
+I.  Lipase               II. Pepsin              III. Amylase          IV. Erepsin 
+(1) I  and II 
+(2) II and IV 
+(3) I and III 
+(4) I, II and III 
+ALLEN
+
+
+--- PAGE 8 ---
+Sample Test Paper : CLASS-X 
+6/12 
+ 
+ 
+38. 
+Given below is the diagram of human alimentary canal with parts labelled as A, B, C and D. With reference 
+to it identify the part which is longer in deer as compared to that of lion. 
+ 
+(1) B 
+(2) C 
+(3) D 
+(4) A 
+39. 
+Observe the given diagram carefully. Identify gases A, B and the process by which exchange of gases takes 
+place respectively. 
+ 
+(1) A : CO2, B : O2,  Process : Active transport 
+(2) A : O2, B : CO2, Process : Active transport 
+(3) A : CO2, B : O2,  Process : diffusion 
+(4) A : O2, B : CO2, Process : diffusion 
+40. 
+Which of the following is / are incorrectly paired ? 
+(a) Apis mellifera : little bee 
+(b) Sahiwal : Shows excellent resistance 
+(c) Jersey : Have a long lactation period 
+(d) Murrah : A high yielding variety of cow 
+(1) a and b 
+(2) b and c 
+(3) a and c 
+(4) a and d 
+41. 
+Refer the given figure of a nephron with some parts labelled as D, E F, G, H and I. Match the labelled parts 
+with the functions given below and select the correct option. 
+ 
+(i)  70-80 percent of electrolytes and water are reabsorbed. 
+(ii) Water is reabsorbed under the influence of vasopressin. 
+(iii) Site of ultrafiltration. 
+ 
+(i) 
+(ii) 
+(iii) 
+(1) 
+F 
+G 
+E 
+(2) 
+E 
+H and I 
+D 
+(3) 
+D 
+F and G 
+I 
+(4) 
+E 
+D 
+F 
+ALLEN
+
+
+--- PAGE 9 ---
+Sample Test Paper : CLASS-X 
+7/12 
+ 
+ 
+ 
+42. 
+Where is larynx positioned in the respiratory tract? 
+(1) Between pharynx and trachea 
+(2) Between bronchi and alveoli 
+(3) Between trachea and bronchi 
+(4) Between pharynx and nasal cavity 
+43. 
+The given demonstration of an experiment is to prove that 
+ 
+(1) Sunlight is necessary for photosynthesis 
+(2) Chlorophyll is essential for photosynthesis 
+(3) O2 is evolved during photosynthesis 
+(4) CO2 is necessary for photosynthesis 
+44. 
+Some species of fish can be cultured in a single fish pond. These fishes do not compete for food as they have 
+different food habits. In the following options, fishes are paired with their food habits. Select the incorrect 
+match.  
+(1) Rohu - Column feeder     
+(2) Silver Carp - Surface feeder 
+(3) Mrigal - Bottom feeder 
+(4) Catla - Column feeder 
+45. 
+Structural and functional unit of nervous system  
+(1) Nephron 
+(2) Neuron 
+(3) Alveoli 
+(4) Both (2) and (3) 
+ 
+SECTION-D : MATHEMATICS 
+ 
+This section contains 15 Multiple Choice Questions. Each question has four choices (1), (2), (3) and (4) out of 
+which ONLY ONE is correct. 
+ 
+46. 
+From 87x + 53y = 15; 53x + 87y = – 155, find the value of x – y is  
+ 
+(1) 4 
+(2) 5 
+(3) 3 
+(4) can’t be determined 
+47. 
+On division by 6, a2 cannot leave remainder 
+(1) 1 
+(2) 4 
+(3) 5 
+(4) 3 
+ALLEN
+
+
+--- PAGE 10 ---
+Sample Test Paper : CLASS-X 
+8/12 
+ 
+ 
+48. 
+Find the largest positive number that will divide 396, 434 and 540 leaving the remainder 5, 9 and 13 
+respectively. 
+(1) 15 
+(2) 13 
+(3) 17 
+(4) 19 
+49. 
+From the given figure, find x, y, z if GE || AF. 
+ 
+(1) 95°, 58°, 50° 
+(2) 85°, 58°, 50° 
+(3) 95°, 85°, 95° 
+(4) 95°, 85°, 50° 
+50. 
+In the given figure, ∆ABCD is a parallelogram, E is midpoint of AD. 
+ 
+gm
+ar( BED)
+ar(||
+ABCD)
+∆
+= __________________ 
+ 
+(1) 4
+3
+ 
+(2) 1
+4
+ 
+(3) 1
+2
+ 
+(4) 3
+4
+ 
+51. 
+If α, β, γ are the zeroes of x3 – 7x + 2 ; the value of (α + β)–1 + (β + γ)–1 + (γ + α)–1 is 
+(1) 0 
+(2) 7
+2
+ 
+(3) 
+7
+2
+−
+ 
+(4) None of these 
+52. 
+If 5 cos A–12 sin A = 0 then 
+2
+sec A
+1
+2tanA
+secA
+−
++
+ is  (0 ≤ A < 90°) 
+(1) 144
+169
+ 
+(2) 55
+144
+ 
+(3) 25
+276
+ 
+(4) 169
+144
+ 
+53. 
+In the given figure, AP and BP are tangents drawn from an external point P. If angle between tangents  is 
+60°, then find ∠x + ∠y + ∠z. 
+ 
+(1) 60° 
+(2) 120° 
+(3) 100° 
+(4) 150° 
+A 
+y 
+z 
+o 
+60° P 
+x 
+B 
+ALLEN
+
+
+--- PAGE 11 ---
+Sample Test Paper : CLASS-X 
+9/12 
+ 
+ 
+ 
+54. 
+On rolling of 2 dice, the probability of getting sum less than 7 is 
+(1) 5
+12
+ 
+(2) 2
+3
+ 
+(3) 1
+3
+ 
+(4) 1
+2
+ 
+55. 
+A floral design of a floor is made up of 16 tiles which are triangular in shape. The side of the triangle being 
+9 cm, 28 cm and 35 cm. The cost of polishing the tiles at 50 paisa/ sq cm is__________ (
+)
+6
+2.45
+=
+ 
+(1) Rs. 289 
+(2) Rs. 288 
+(3) Rs. 705.6 
+(4) Rs. 500 
+56. 
+The radius of two spheres is in the ratio 4 : 5 then, the ratio of their volumes is 
+(1) 4:5 
+(2) 64:125 
+(3) 16:25 
+(4) 5:4 
+57. 
+Factorize the following polynomial x + 8xy3. 
+(1) x(1 – 2y)(1 – 2y + 4y2) 
+(2) x(1 + 2y)(1 – 2y + 4y2) 
+(3) x(1 + 2y)(1 + 2y + 4y2) 
+(4) x(1 – 2y)(1 + 2y + 4y2) 
+58. 
+If 
+n
+n
+n
+T
+sin
+cos
+=
+θ+
+θ , then 
+3
+5
+1
+T
+T
+T
+−
+ is equal to.  
+(1) 
+5
+7
+3
+T
+T
+T
+−
+ 
+(2) 
+3
+5
+7
+T
+T
+T
+−
+ 
+(3) 
+9
+6
+4
+T
+T
+T
+−
+ 
+(4) 
+6
+9
+4
+T
+T
+T
+−
+ 
+59. 
+Mean weight of a group of 30 students is 62.5 kg. A student (weight 71.5 kg) left the group and a new 
+student (weight 53.5 kg) joined the group. The new mean of the group will be 
+(1) 60 kg 
+(2) 63.5 kg 
+(3) 61.9 kg 
+(4) 59.5 kg 
+60. 
+In the given figure, PB is tangent to the circle, ∠AOB = 60°, PB = 30 3 cm. Find length of AB. 
+ 
+(1) 15 cm 
+(2) 20 cm 
+(3) 30 cm 
+(4) 30 3 cm 
+ 
+SECTION-E : MENTAL ABILITY 
+ 
+This section contains 20 Multiple Choice Questions. Each question has four choices (1), (2), (3) and (4) out 
+of which ONLY ONE is correct.  
+ 
+ 
+61. 
+In the following question, a series is given with next figure missing. Choose the correct alternative from the 
+given ones that will complete the series 
+ 
+(1) 
+ 
+ 
+(2) 
+ 
+ 
+(3) 
+ 
+ 
+(4) 
+ 
+ 
+ALLEN
+
+
+--- PAGE 12 ---
+Sample Test Paper : CLASS-X 
+10/12 
+ 
+ 
+62. 
+At what time between 5 and 6 will the hands of the clock Coincide? 
+(1) 
+3
+2711
+ min past 5 
+ 
+(2) 
+5
+3411
+ min past 5 
+ 
+(3) 
+2
+2411
+min past 5 
+ 
+(4) 
+3
+2511
+min past 5 
+63. 
+If we interchange – with + and 10 with 1000, then what will be the answer for the equation given below? 
+ 
+1000 – 100 + 100 –10 
+(1) 1009 
+(2) 999 
+(3) 1000 
+(4) 1100 
+64. 
+In a row of persons, position of A from left side of the row is 9th & position of M from right side of the row 
+is 8th. If N is sitting just in middle of A& M and position of N from left side of the row is 15th. Find the total 
+number of persons in the row? 
+(1) 27 
+(2) 29 
+(3) 28 
+(4) 30 
+65. 
+The angle between the minute hand and the hour hand of a clock when the time is 8:30 
+(1) 80 Degrees 
+(2) 75 Degrees 
+(3) 60 Degrees 
+(4) 105 Degrees 
+66. 
+Count the number of triangles in the given figure. 
+ 
+(1) 26 
+(2) 28 
+(3) 32 
+(4) None of these 
+67. 
+What number should be replace the question mark ? 
+ 
+(1) 29 
+(2) 91 
+(3) 92 
+(4) 19 
+68. 
+In the following question, statements are given followed by conclusions. You have to take the given 
+statements to be true even if they seem to be at variance with commonly known facts and then decide which 
+of the given conclusion logically follows from the given statements disregarding commonly known facts. 
+Statements : 
+Some roads are city. 
+ 
+ 
+All city are table. 
+Conclusions : 
+1. Some roads are table. 
+ 
+ 
+2. Some city are roads. 
+(1) Only 1 follows 
+ 
+(2) Only 2 follows 
+(3) Neither 1 nor 2 follows 
+(4) Both 1 and 2 follows 
+69. 
+Read the following information carefully to answer the question that folllows. ‘P – Q’ means ‘Q is father of P’ 
+ 
+‘P Q’ means ‘Q is brother of P’ ‘P + Q’ means ‘Q is wife of P’ ‘P ÷ Q’ means ‘Q is sister of P’ 
+ 
+Which of the following means M is the grandfather of T ? 
+(1) T − C ÷ L + N*M  
+ 
+(2) T − R ÷ Z + L *M 
+(3) T ÷ Z * L + F − M  
+ 
+(4) None of these 
+ALLEN
+
+
+--- PAGE 13 ---
+Sample Test Paper : CLASS-X 
+11/12 
+ 
+ 
+ 
+70. 
+Find the number of triangles from the given figure. 
+ 
+(1) 11 
+(2) 12 
+(3) 7 
+(4) 9 
+71. 
+When Sanju saw Mahesh, he recalled, “He is the son of the father of my daughter.” How is Mahesh related to 
+Sanju ? 
+(1) Son 
+(2) Brother 
+(3) Uncle 
+(4) Father 
+72. 
+How many leap years are there from 1701 to 1900 (both are included) : 
+(1) 50 
+(2) 49 
+(3) 48 
+(4) None of these 
+73. 
+Eight players are standing to play ‘Standing Kho-Kho’. Geeta is at the third place to the right of Mahesh. Amar is 
+at the first place to the right of Geeta. Asha is to the fourth place to the left of Geeta. Radha is at central place 
+between Parag and Asha. Meena is at the central place between Geeta and Hemant. Then 
+Who is at the fifth place to the left of Geeta? 
+(1) Mahesh 
+(2) Asha 
+(3) Parag 
+(4) Radha 
+74. 
+Point B is 12 meters south of point A. Point C is 24 meters east of point B. Point D is 8 meters south of point C. 
+Point D is 12 meters east of point E and point F is 8 meters north of point E. If a man is standing facing north at 
+point C, then how far and in which direction is point F with respect to man? 
+(1) 12 meters west 
+(2) 24 meters east 
+(3) 12 meters east 
+(4) 24 meters west 
+75. 
+Jetplanes P,Q,R and S started flight towards east. After flying 125 kms planes P and S flew towards right while 
+planes Q and R flew towards left. After 115 km, planes Q and R flew towards their left while Planes P and S also 
+turned towards their left. In which directions are the Jetplanes P,Q,S,R respectively flying now ? 
+(1) North, South, East, West 
+(2) East, West, West, East 
+(3) East, West, East, West  
+(4) South, North, North, South 
+76. 
+Which number replace the question mark in the figure given below? 
+ 
+(1) 236  
+(2) 426  
+(3) 266  
+(4) 256 
+77. 
+If C = 24 and X-RAY = 40, then WHAT = ? 
+(1) 56 
+(2) 57 
+(3) 58 
+(4) 55 
+78. 
+Study the following information and answer the questions given below. 
+ 
+J, K, L, M, N, O and P are seven kids playing in the garden. They are wearing clothes of black, blue, white, green, 
+pink, yellow and brown colours, out of these seven three are girls. No girl is wearing either black, yellow or 
+brown, M’s sister L is wearing pink, while he is wearing brown. J is wearing blue, while his sister K is not wearing 
+green, N is wearing yellow, while his best friend P is a boy. 
+ 
+What colour are sister of J and M wearing? 
+(1) Pink and Green 
+(2) Pink and Yellow 
+(3) White and Green 
+(4) White and Pink 
+ALLEN
+
+
+--- PAGE 14 ---
+Sample Test Paper : CLASS-X 
+12/12 
+ 
+ 
+79. 
+In the questions below, a problem figure is given. The problem figure is hidden in one of the figures given as 
+alternatives. Find the figure in which the problem figure is hidden. 
+ 
+(1) 
+ 
+ 
+(2) 
+ 
+ 
+(3) 
+ 
+ 
+(4) 
+ 
+ 
+80. 
+There are two/three statements followed by four conclusions numbered 1, 2, 3 and 4. You have to take the given 
+statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and 
+then decide which of the given conclusions logically follows from the two given statements, disregarding 
+commonly known facts. 
+Statements : 
+Some cars are trains Some trains are cats. 
+Conclusions: 
+1. No car is cat. 
+ 
+ 
+2. Some cats are trains. 
+ 
+ 
+3. Some cars are cats. 
+ 
+ 
+4. All trains are cars. 
+(1) Either 1 or 2 and 3 follows 
+(2) Either 1 or 2 and 4 follows 
+(3) Either 1 or 3 follows and 2 follows 
+(4) None of these 
+ 
+ 
+ 
+Que. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+Ans. 
+4 
+3 
+3 
+2 
+4 
+2 
+3 
+2 
+1 
+1 
+4 
+1 
+2 
+1 
+1 
+Que. 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+Ans. 
+3 
+2 
+2 
+2 
+1 
+1 
+1 
+2 
+1 
+4 
+4 
+1 
+1 
+2 
+3 
+Que. 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+Ans. 
+3 
+2 
+1 
+1 
+1 
+3 
+3 
+1 
+3 
+4 
+2 
+1 
+4 
+4 
+2 
+Que. 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+Ans. 
+2 
+3 
+3 
+4 
+2 
+3 
+3 
+2 
+1 
+3 
+2 
+2 
+1 
+3 
+3 
+Que. 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+Ans. 
+2 
+1 
+1 
+3 
+2 
+3 
+3 
+4 
+4 
+4 
+1 
+3 
+4 
+1 
+3 
+Que. 
+76 
+77 
+78 
+79 
+80 
+ 
+Ans. 
+3 
+1 
+4 
+3 
+3 
+ 
+ANSWER KEY 
+ALLEN
+
+
